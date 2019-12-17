@@ -1,6 +1,6 @@
 ---
 title: Fourth Post
-author: Chris
+author: Onur BAL
 layout: post
 ---
 Örnek duyuru.
