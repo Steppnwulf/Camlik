@@ -1,5 +1,5 @@
 ---
-title: Fourth Post
+title: Dördüncü Duyuru
 author: Onur BAL
 layout: post
 ---
