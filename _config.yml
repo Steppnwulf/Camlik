@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Çamlık Dergisi'nin Resmi İnternet Sitesi
 author: Onur BAL
 email: camlikyeditepe@gmail.com
-avatar: assets/images/avatar.jpg
+##avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/Camlik" # the subpath of your site, e.g. /blog
@@ -47,7 +47,7 @@ url: "" # the base hostname & protocol for your site
 twitter_url:
 facebook_url:
 googleplus_url:
-instagram_url:  https://www.instagram.com/camlikyeditepe/?hl=en
+instagram_url: https://www.instagram.com/camlikyeditepe/?hl=en
 linkedin_url:
 github_url:
 pinterest_url:
